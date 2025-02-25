@@ -105,3 +105,4 @@ pyparsing==3.2.1
 python-dateutil==2.9.0.post0
 pytz==2025.1
 pywin32==308; sys_platform == 'win32'  # Only install on Windows
+scikit-learn
